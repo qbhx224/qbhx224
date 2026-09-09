@@ -27,10 +27,10 @@ const developer = {
     name: "千杯寒雪",
     role: "学生",
     location: "China Anhui Ma'anshan",
-    goal: "中科大软件学院 · 28考研",             
-    currentFocus: ["冲刺科软", "AI方面研究", "跨端开发"],
+    goal: "28考研-给孩子一个学上",             
+    currentFocus: ["软件工程", "AI方面研究", "跨端开发"],
     askMeAbout: ["Swift", "Flutter", "Node.js", "Python"],
-    motto: "大雪深埋~"                  
+    motto: "o(TヘTo)~"                  
 };
 ```
 
